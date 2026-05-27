@@ -1,0 +1,10 @@
+
+displayName: "Auto Translate"
+name: "auto-translate"
+author: "ilciab"
+main: "autotranslate.AutoTranslate"
+description: "Translates chat messages in chosen language"
+version: 1.0
+minGameVersion: 154
+java: true
+hidden: true
